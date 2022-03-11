@@ -1,4 +1,4 @@
-# [ClassRoster](http://54.196.211.168:8080/teachers)
+ClassRoster
 
 Web App in which a user can create teachers, students, and courses. Courses have one teacher and multiple students. 
 
